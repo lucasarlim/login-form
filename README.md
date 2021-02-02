@@ -3,7 +3,7 @@
 
 ## Projeto 💻
 
-Esse é um simples e responsivo login formulario produzido durante o video da **[Giovanna](https://github.com/giovannamoeller)** no canal **[Girl Coding](https://www.youtube.com/channel/UCp9iM676aUBzT03JiGExFEw)**
+Esse é um simples e responsivo login formulario foi produzido durante o video da **[Giovanna](https://github.com/giovannamoeller)** no canal **[Girl Coding](https://www.youtube.com/channel/UCp9iM676aUBzT03JiGExFEw)**
 
 ## Tecnologias 🛠️
 
